@@ -1,0 +1,14 @@
+# Target labels
+ cxxopts-populate
+# Source files and their labels
+/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate
+/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate.rule
+/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate-complete.rule
+/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-build.rule
+/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-configure.rule
+/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-download.rule
+/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-install.rule
+/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-mkdir.rule
+/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-patch.rule
+/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-test.rule
+/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-update.rule

@@ -1,4 +1,11 @@
 {
     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
-    "cmake.options.statusBarVisibility": "visible"
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.buildDirectory": "${workspaceFolder}/build-wsl",
+    // "C_Cpp.intelliSenseCachePath": "${workspaceFolder}/build-windows/.vscode/cpp_intellisense_cache",
+    "files.associations": {
+        "*.in": "cpp",
+        "iostream": "cpp",
+        "mutex": "cpp"
+    },
 }

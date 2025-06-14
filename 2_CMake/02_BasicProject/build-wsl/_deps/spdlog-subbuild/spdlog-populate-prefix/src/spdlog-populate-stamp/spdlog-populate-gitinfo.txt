@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=/home/cgulucan/.local/lib/python3.8/site-packages/cmake/data/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/spdlog-subbuild/spdlog-populate-prefix/tmp/spdlog-populate-gitclone.cmake
+source_dir=/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps/spdlog-src
+work_dir=/mnt/d/Code/C++ Projects/Udemy Lectures/UdemyCmake/2_CMake/02_BasicProject/build-wsl/_deps
+repository=https://github.com/gabime/spdlog.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=NEW
+      

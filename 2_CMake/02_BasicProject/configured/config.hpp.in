@@ -1,0 +1,26 @@
+#pragma once
+
+#include <cstdint>
+#include <string>
+
+#define NAME    "@PROJECT_NAME@"
+#define VERSION "@PROJECT_VERSION@"
+#define AUTHOR  "@PROJECT_AUTHOR@"
+
+namespace Config
+{
+    // Configuration for the application
+    struct Config {
+        std::string appName;          // Name of the application
+        std::string version;          // Version of the application
+        std::string author;           // Author of the application
+
+        Config()
+        {
+            appName = NAME;
+            version = VERSION;
+            author  = AUTHOR;
+        }
+    };
+
+}; // namespace Config
